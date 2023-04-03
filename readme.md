@@ -1,7 +1,9 @@
 # Front-End Notes
 
-* Tailwindcss
-* Remix
 
-## Remix Libraries
+* [Remix](https://remix.run/)
+* Tailwindcss
+
+## Tailwind Libraries
+ * [TailwindUi](https://tailwindui.com/)
  * [Tailwind Elements](https://tailwind-elements.com/)
