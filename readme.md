@@ -5,6 +5,9 @@
 * Tailwindcss
 
 ## Tailwind Component Libraries
- * [TailwindUi](https://tailwindui.com/)
- * [Tailwind Elements](https://tailwind-elements.com/)
+ * [TailwindUi](https://tailwindui.com/) *
+ * [Tailwind Elements](https://tailwind-elements.com/) *
+ * [Tailblocks](https://tailblocks.cc/)
  * [Remix Blocks](https://remixblocks.com/)
+ * [Fancy Tailwind](https://fancytailwind.com/)
+ * [Flowbyte](https://flowbite.com/)
